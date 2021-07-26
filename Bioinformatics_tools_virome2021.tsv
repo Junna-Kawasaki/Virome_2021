@@ -1,0 +1,27 @@
+Tool name	Version
+R	4.0.2
+ggtree	2.2.1
+ape	5.4
+dplyr	1.0.0
+tibble	3.3.0
+treeio	1.12.0
+ggplot2	3.3.2
+tidyr	1.1.0
+python	3.7.3
+biopython	1.76
+seaborn	0.9.0
+scipy	1.4.1
+matplotlib	2.2.4
+pandas	4.9
+recan	0.1.2
+urllib3	1.24.3
+beautifulsoup4	4.9.1
+json5	0.9.5
+glob2	0.7
+seqkit	1.5.0
+taxonkit	0.3.0
+mafft	7.407
+iqtree	1.6.12
+tblastx	2.9.0
+blastn	2.9.0
+blastx	2.9.0
